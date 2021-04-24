@@ -1,0 +1,88 @@
+html{
+  color: hotpink;
+      
+}
+
+
+
+form{
+  margin-top: 20px;
+}
+
+.wrapper {    
+  width:300px;
+  margin: 40px auto;
+  padding: 20px; 
+  background-color:bisque;
+  border-radius: 10px;
+  box-shadow: 3px 3px 4px lightgray;
+  height: auto;    
+}
+
+label{
+  font-family: verdana;
+  font-size: 0.8em;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 4px; 
+}
+
+input[type=text],input[type=email], input[type=phone]  {
+  width: 100%;
+  height: 30px; 
+  outline: none;
+  border: none;
+  padding-left: 8px;
+  border-radius: 5px;    
+}
+
+fieldset {
+  margin-top: 10px;  
+  border:3px solid white; 
+}
+
+legend {
+font-family: verdana;
+font-size: 0.8em;
+font-weight: 700;
+}
+
+h2{
+text-align: center;    
+font-family: 'Lobster', cursive;
+margin: 0;
+padding-bottom: 10px;    
+border-bottom: 3px solid white;        
+}
+
+.radio{
+ border: 2px solid white;
+ border-radius: 10px;
+ display: inline-block; 
+ height: 25px;
+ width: 80px;
+ padding-top: 1px; 
+ box-sizing: border-box;    
+}
+
+input[type=submit] {
+  width: 100%;
+  border: none;
+  background-color: hotpink;
+  height: 30px;
+  border-radius: 20px; 
+  font-size: 15px;
+  text-transform: uppercase;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
